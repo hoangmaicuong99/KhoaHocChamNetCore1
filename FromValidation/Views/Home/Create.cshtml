@@ -1,0 +1,36 @@
+﻿@model FromValidation.Models.Student
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .field-validation-error {
+        color: red;
+    }
+    .validation-summary-errors{
+        color:red
+    }
+</style>
+<h1>Create</h1>
+<div asp-validation-summary="ModelOnly">
+    <span>Lỗi tự kiểm tra.</span>
+</div>
+<form method="post">
+    <!label>ID: </!label>
+    <input asp-for="id" />
+    <span asp-validation-for="id"></span>
+
+    <label asp-for="name"></label>
+    <input asp-for="name" />
+    <span asp-validation-for="name"></span>
+
+    <label asp-for="description"></label>
+    <input asp-for="description" />
+
+    <label asp-for="email"></label>
+    <input asp-for="email" />
+    <span asp-validation-for="email"></span>
+
+    <button type="submit">Gửi</button>
+</form>
+

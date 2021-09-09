@@ -1,0 +1,3 @@
+1. Cấu hình Program.cs (nhưng chưa cấu hình được)
+2. Lấy các phần tử kiểu Json trong appsettings sử dụng trong Starup.cs
+3. Cấu hình sử dụng wwwroot

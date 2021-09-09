@@ -1,0 +1,27 @@
+﻿@using DISampleService.Dtos;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model List<ProductViewModel>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ListProduct</title>
+</head>
+<body>
+    <h1>Product :</h1>
+    @{
+        foreach (var item in Model)
+        {
+        <div>
+            <span>ID: @item.id -- </span>
+            <span>ID: @item.name</span>
+        </div>
+        }
+    }
+</body>
+</html>

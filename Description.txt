@@ -1,0 +1,2 @@
+1. Thêm mô hình MVC vào hệ thống
+2. Cài đặt Route trong MVC

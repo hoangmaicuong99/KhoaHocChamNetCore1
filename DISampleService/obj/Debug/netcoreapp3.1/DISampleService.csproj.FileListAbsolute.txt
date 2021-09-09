@@ -1,0 +1,9 @@
+D:\Khoa-Hoc-NETCore-CoBan-NangCao\UngDungDauTien\DISampleService\obj\Debug\netcoreapp3.1\DISampleService.csprojAssemblyReference.cache
+D:\Khoa-Hoc-NETCore-CoBan-NangCao\UngDungDauTien\DISampleService\obj\Debug\netcoreapp3.1\DISampleService.AssemblyInfoInputs.cache
+D:\Khoa-Hoc-NETCore-CoBan-NangCao\UngDungDauTien\DISampleService\obj\Debug\netcoreapp3.1\DISampleService.AssemblyInfo.cs
+D:\Khoa-Hoc-NETCore-CoBan-NangCao\UngDungDauTien\DISampleService\obj\Debug\netcoreapp3.1\DISampleService.csproj.CoreCompileInputs.cache
+D:\Khoa-Hoc-NETCore-CoBan-NangCao\UngDungDauTien\DISampleService\bin\Debug\netcoreapp3.1\DISampleService.deps.json
+D:\Khoa-Hoc-NETCore-CoBan-NangCao\UngDungDauTien\DISampleService\bin\Debug\netcoreapp3.1\DISampleService.dll
+D:\Khoa-Hoc-NETCore-CoBan-NangCao\UngDungDauTien\DISampleService\bin\Debug\netcoreapp3.1\DISampleService.pdb
+D:\Khoa-Hoc-NETCore-CoBan-NangCao\UngDungDauTien\DISampleService\obj\Debug\netcoreapp3.1\DISampleService.dll
+D:\Khoa-Hoc-NETCore-CoBan-NangCao\UngDungDauTien\DISampleService\obj\Debug\netcoreapp3.1\DISampleService.pdb
